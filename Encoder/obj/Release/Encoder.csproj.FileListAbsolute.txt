@@ -1,0 +1,6 @@
+\\192.168.10.182\osep-exam\_Tools\_Encoders\Encoder\Encoder\bin\Release\Encoder.exe.config
+\\192.168.10.182\osep-exam\_Tools\_Encoders\Encoder\Encoder\bin\Release\Encoder.exe
+\\192.168.10.182\osep-exam\_Tools\_Encoders\Encoder\Encoder\bin\Release\Encoder.pdb
+\\192.168.10.182\osep-exam\_Tools\_Encoders\Encoder\Encoder\obj\Release\Encoder.csproj.CoreCompileInputs.cache
+\\192.168.10.182\osep-exam\_Tools\_Encoders\Encoder\Encoder\obj\Release\Encoder.exe
+\\192.168.10.182\osep-exam\_Tools\_Encoders\Encoder\Encoder\obj\Release\Encoder.pdb
