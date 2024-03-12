@@ -94,8 +94,7 @@ namespace Encoder
             {
                 if (strIn == "x")
                     Environment.Exit(0);
-
-                Console.WriteLine("\nPlease paste the payload to encode (it cannot contain line breaks):");
+                
                 var byteString = BetterReadLine().Replace("\r\n", "");
 
                 byte[] buf = byteString.Split(',').Select(x => Convert.ToByte(x, 16)).ToArray();
@@ -114,7 +113,7 @@ namespace Encoder
                 Console.WriteLine(strException);
             }
         }
-
+        /*
         static string BetterReadLine()
         {
             const int BUF_MAX = 10000;
@@ -123,6 +122,24 @@ namespace Encoder
             int outputLength = inputStream.Read(bytes, 0, BUF_MAX);
             char[] chars = Encoding.UTF8.GetChars(bytes, 0, outputLength);
             return new string(chars).Trim();
+        }
+        */
+
+        static string BetterReadLine()
+        {
+            StringBuilder inputBuilder = new StringBuilder();
+            Console.WriteLine("\nEnter payload, line by line. Type 'END' (in a new line) when done:");
+
+            string inputLine;
+            while (true)
+            {
+                inputLine = Console.ReadLine();
+                if (inputLine == "END") // Check for terminator
+                    break;
+                inputBuilder.AppendLine(inputLine);
+            }
+
+            return inputBuilder.ToString().TrimEnd(); // TrimEnd to remove the last new line added by AppendLine
         }
     }
 }
