@@ -1,0 +1,20 @@
+\\192.168.10.182\osep-exam\_Tools\_Encoders\Encoder\Encoder\bin\Release\Encoder.exe.config
+\\192.168.10.182\osep-exam\_Tools\_Encoders\Encoder\Encoder\bin\Release\Encoder.exe
+\\192.168.10.182\osep-exam\_Tools\_Encoders\Encoder\Encoder\bin\Release\Encoder.pdb
+\\192.168.10.182\osep-exam\_Tools\_Encoders\Encoder\Encoder\obj\Release\Encoder.csproj.CoreCompileInputs.cache
+\\192.168.10.182\osep-exam\_Tools\_Encoders\Encoder\Encoder\obj\Release\Encoder.exe
+\\192.168.10.182\osep-exam\_Tools\_Encoders\Encoder\Encoder\obj\Release\Encoder.pdb
+C:\Users\getre\Dropbox (Personal)\OSEP\exam\smbshare\_Tools\_Encoders\Encoder\Encoder\bin\Release\Encoder.exe.config
+C:\Users\getre\Dropbox (Personal)\OSEP\exam\smbshare\_Tools\_Encoders\Encoder\Encoder\bin\Release\Encoder.exe
+C:\Users\getre\Dropbox (Personal)\OSEP\exam\smbshare\_Tools\_Encoders\Encoder\Encoder\bin\Release\Encoder.pdb
+C:\Users\getre\Dropbox (Personal)\OSEP\exam\smbshare\_Tools\_Encoders\Encoder\Encoder\obj\Release\Encoder.csproj.AssemblyReference.cache
+C:\Users\getre\Dropbox (Personal)\OSEP\exam\smbshare\_Tools\_Encoders\Encoder\Encoder\obj\Release\Encoder.csproj.CoreCompileInputs.cache
+C:\Users\getre\Dropbox (Personal)\OSEP\exam\smbshare\_Tools\_Encoders\Encoder\Encoder\obj\Release\Encoder.exe
+C:\Users\getre\Dropbox (Personal)\OSEP\exam\smbshare\_Tools\_Encoders\Encoder\Encoder\obj\Release\Encoder.pdb
+C:\Users\getre\Dropbox (Personal)\Courses\OSEP\Encoder\Encoder\bin\Release\Encoder.exe.config
+C:\Users\getre\Dropbox (Personal)\Courses\OSEP\Encoder\Encoder\bin\Release\Encoder.exe
+C:\Users\getre\Dropbox (Personal)\Courses\OSEP\Encoder\Encoder\bin\Release\Encoder.pdb
+C:\Users\getre\Dropbox (Personal)\Courses\OSEP\Encoder\Encoder\obj\Release\Encoder.csproj.AssemblyReference.cache
+C:\Users\getre\Dropbox (Personal)\Courses\OSEP\Encoder\Encoder\obj\Release\Encoder.csproj.CoreCompileInputs.cache
+C:\Users\getre\Dropbox (Personal)\Courses\OSEP\Encoder\Encoder\obj\Release\Encoder.exe
+C:\Users\getre\Dropbox (Personal)\Courses\OSEP\Encoder\Encoder\obj\Release\Encoder.pdb
