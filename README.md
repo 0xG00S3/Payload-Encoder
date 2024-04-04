@@ -34,9 +34,9 @@ Execute the compiled application, choosing whether to encode or decode your payl
 ## Disclaimer
 Payload-Encoder is intended for educational and ethical use only. Always ensure you have permission to test these techniques on any system. This project is meant to share knowledge and inspire safe and ethical exploration in cybersecurity.
 
-*** This project is in active development, and currently ingests binary file outputs from C2's or others and C# byte array outputs from the Metasploit Framework `-f csharp` format. ***
+***This project is in active development, and currently ingests binary file outputs from C2's or others and C# byte array outputs from the Metasploit Framework `-f csharp` format.***
 
-##License
+## License
 
 This project is open-source and licensed under the MIT License. See the LICENSE file for more details.
 
