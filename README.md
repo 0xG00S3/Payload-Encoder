@@ -31,10 +31,7 @@ Created to learn and share knowledge within the cybersecurity community, Payload
 
 Execute the compiled application, choosing whether to encode or decode your payload based on the options provided. Follow the on-screen prompts to complete your desired action.
 
-[![Watch the video](https://www.dropbox.com/scl/fi/r5jyd1hgstzdygngbrl5c/Hacker-Goose.png?rlkey=jwy6b0omlmcvkse5quph6q5yv&dl=0)](https://www.dropbox.com/scl/fi/g0tcx9rd6u08u7hc5ntuu/Payload-Encoder.mp4?rlkey=ww0xuxwet6sldsbaodh0krxdg&dl=0)
-
-
-https://www.dropbox.com/scl/fi/g0tcx9rd6u08u7hc5ntuu/Payload-Encoder.mp4?rlkey=ww0xuxwet6sldsbaodh0krxdg&dl=0
+https://github.com/0xG00S3/Payload-Encoder/assets/58661497/e8d664b1-25e2-42dc-ba1a-f9bfac374d41
 
 ## Disclaimer
 Payload-Encoder is intended for educational and ethical use only. Always ensure you have permission to test these techniques on any system. This project is meant to share knowledge and inspire safe and ethical exploration in cybersecurity.
